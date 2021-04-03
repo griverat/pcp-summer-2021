@@ -8,3 +8,4 @@ dependencies:
   - pyviz::holoviews
   - pyviz::panel
   - rise
+  - netCDF4-python
