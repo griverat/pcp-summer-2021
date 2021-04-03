@@ -1,0 +1,7 @@
+name: pangeo
+dependencies:
+  - xarray
+  - dask
+  - bokeh
+  - pyviz::holoviews
+  - pyviz::panel
